@@ -1,0 +1,20 @@
+admin:admin123 (admin account)
+ops0:ops0 (msg producer account)
+ops1:ops1 (msg consumer account)
+
+=======================================
+dotnet new sln -o RabbitEventBus
+
+dotnet new classlib -n CLBRabbitMQEventBus -o CLBRabbitMQEventBus 
+dotnet sln add ./CLBRabbitMQEventBus/CLBRabbitMQEventBus.csproj
+
+dotnet sln list
+
+dotnet new webapi -n BankingAccountAPI -o BankingAccountAPI 
+
+dotnet add reference ./CLBRabbitMQEventBus/CLBRabbitMQEventBus.csproj
+===================================================================
+
+
+dotnet ef migrations add init -v
+dotnet ef database update -v

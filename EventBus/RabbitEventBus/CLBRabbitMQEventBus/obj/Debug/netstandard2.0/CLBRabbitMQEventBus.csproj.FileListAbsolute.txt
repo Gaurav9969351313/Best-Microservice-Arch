@@ -1,0 +1,9 @@
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\CLBRabbitMQEventBus\obj\Debug\netstandard2.0\CLBRabbitMQEventBus.csprojAssemblyReference.cache
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\CLBRabbitMQEventBus\obj\Debug\netstandard2.0\CLBRabbitMQEventBus.csproj.CoreCompileInputs.cache
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\CLBRabbitMQEventBus\obj\Debug\netstandard2.0\CLBRabbitMQEventBus.AssemblyInfoInputs.cache
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\CLBRabbitMQEventBus\obj\Debug\netstandard2.0\CLBRabbitMQEventBus.AssemblyInfo.cs
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\CLBRabbitMQEventBus\bin\Debug\netstandard2.0\CLBRabbitMQEventBus.deps.json
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\CLBRabbitMQEventBus\bin\Debug\netstandard2.0\CLBRabbitMQEventBus.dll
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\CLBRabbitMQEventBus\bin\Debug\netstandard2.0\CLBRabbitMQEventBus.pdb
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\CLBRabbitMQEventBus\obj\Debug\netstandard2.0\CLBRabbitMQEventBus.dll
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\CLBRabbitMQEventBus\obj\Debug\netstandard2.0\CLBRabbitMQEventBus.pdb

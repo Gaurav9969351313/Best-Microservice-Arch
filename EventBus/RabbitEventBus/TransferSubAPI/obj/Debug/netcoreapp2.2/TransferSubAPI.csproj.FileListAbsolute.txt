@@ -1,0 +1,17 @@
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\obj\Debug\netcoreapp2.2\TransferSubAPI.csprojAssemblyReference.cache
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\obj\Debug\netcoreapp2.2\TransferSubAPI.csproj.CoreCompileInputs.cache
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\obj\Debug\netcoreapp2.2\TransferSubAPI.RazorAssemblyInfo.cache
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\obj\Debug\netcoreapp2.2\TransferSubAPI.RazorAssemblyInfo.cs
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\obj\Debug\netcoreapp2.2\TransferSubAPI.AssemblyInfoInputs.cache
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\obj\Debug\netcoreapp2.2\TransferSubAPI.AssemblyInfo.cs
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\bin\Debug\netcoreapp2.2\TransferSubAPI.deps.json
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\bin\Debug\netcoreapp2.2\TransferSubAPI.runtimeconfig.json
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\bin\Debug\netcoreapp2.2\TransferSubAPI.runtimeconfig.dev.json
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\bin\Debug\netcoreapp2.2\TransferSubAPI.dll
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\bin\Debug\netcoreapp2.2\TransferSubAPI.pdb
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\bin\Debug\netcoreapp2.2\CLBRabbitMQEventBus.dll
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\bin\Debug\netcoreapp2.2\CLBRabbitMQEventBus.pdb
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\obj\Debug\netcoreapp2.2\TransferSubAPI.RazorTargetAssemblyInfo.cache
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\obj\Debug\netcoreapp2.2\TransferSubAPI.csproj.CopyComplete
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\obj\Debug\netcoreapp2.2\TransferSubAPI.dll
+C:\Users\GauravTalele\Desktop\devCapium\EventBus\RabbitEventBus\TransferSubAPI\obj\Debug\netcoreapp2.2\TransferSubAPI.pdb
